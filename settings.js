@@ -16,7 +16,7 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "254757848853",
+  OWNER_NUMBER: "254757848853,254738738268",
   SUDO_NUMBERS : "254757848863",
   OWNER_NAME: "『 Mony 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
